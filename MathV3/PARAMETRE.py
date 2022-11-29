@@ -1,0 +1,4 @@
+
+
+
+FONCTION_ELEMENTAIRE = ['+','*','/','^']
